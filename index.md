@@ -1,1 +1,1 @@
-Map_Folium.html
+map_folium.html
